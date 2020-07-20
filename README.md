@@ -8,7 +8,7 @@ SimpleSD_Bootloader is a simple library for firmware upgrade from SD card on STM
 
 # Hardware
   - SD card [connected to the STM32 MCU using SPI interface]
-  ![hardware-img](https://github.com/SavKok/SimpleSD_Bootloader-STM32/blob/master/SD%20&%20SPI%20interface.png?raw=true)
+  ![hardware-img](https://github.com/SavKok/SimpleSD_Bootloader-STM32/blob/master/SimpleSD_Assets/SD%20&%20SPI%20interface.png?raw=true)
   - LED indicator 
 
 # Testing
